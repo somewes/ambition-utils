@@ -9,6 +9,7 @@ env:
   matrix:
     - DJANGO=1.11
     - DJANGO=2.0
+    - DJANGO=2.1
     - DJANGO=master
 
 addons:

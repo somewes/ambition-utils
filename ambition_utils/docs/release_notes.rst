@@ -1,5 +1,8 @@
-Release Notes
 =============
+
+0.7.0
+-----
+* Add django 2.1 and python 3.7 support
 
 0.6.1
 -----
